@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dezoid
+- 👀 I’m interested in M365 and Azure Services
+- 🌱 I’m currently learning JavaScript, Vuejs, NodeJS
+- 💞️ I’m looking to collaborate on ...
